@@ -1,6 +1,6 @@
 ## ֺ👋🏼 Hi I'm Carlos Medina
 
-##### Electronic Technologist - Control and Automation Engineer - FrontEnd Developer - Learning Software Enginner
+#### Electronic Technologist - Control and Automation Engineer - FrontEnd Developer - Learning Software Enginner
 
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning web development

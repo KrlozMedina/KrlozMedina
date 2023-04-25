@@ -1,6 +1,10 @@
 ## ֺ👋🏼 Hi I'm Carlos Medina
 
-#### Control and Automation Engineer - FrontEnd Developer - Learning Software Enginner
+Como ingeniero en Control y Automatización, he adquirido sólidos conocimientos en desarrollo de software y he trabajado con varios lenguajes de programación en diferentes proyectos satisfactorios. En el último año, me he enfocado en profundizar mis habilidades en el FrontEnd utilizando JavaScript (NodeJS) y React, y en el BackEnd con Java (Spring Boot) y SQL.
+
+Uno de mis mayores logros ha sido liderar un proyecto de transformación digital en una planta de producción. Allí, diseñé e implementé un aplicativo web que permitió recopilar y analizar los datos recolectados por la planta. Utilicé un stack de tecnología que incluyó un protocolo de comunicación con NodeJS para recolectar los datos del PLC, codificarlos y transmitirlos a través de protocolo HTTP a servicios de AWS. Estos servicios fueron integrados con Lambda utilizando JavaScript para reasignar los datos a las tablas adecuadas de DynamoDB. Finalmente, utilizando React, se creó un aplicativo web que mostraba los datos en tablas y gráficos, y permitía realizar búsquedas según las necesidades del usuario.
+
+Además de este proyecto, he trabajado en varios otros proyectos que me han permitido adquirir experiencia en diferentes áreas del desarrollo de software. Mi objetivo profesional es seguir creciendo en el campo del desarrollo y la ingeniería, y continuar aplicando mis habilidades para resolver problemas y lograr resultados exitosos en los proyectos en los que participe.
 
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning web development

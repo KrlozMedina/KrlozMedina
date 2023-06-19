@@ -34,7 +34,7 @@ Portafolio web que muestra una selección de mis proyectos y habilidades como de
 
 **Tecnologías utilizadas**: React, CSS, Spring, Figma, Netlify, Railway.
 
-### ⚙️ GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/KrlozMedina">
@@ -43,24 +43,24 @@ Portafolio web que muestra una selección de mis proyectos y habilidades como de
 </a>
 </p>
 
-### 🛠 Habilidades técnicas
+## 🛠 Habilidades técnicas
 
-#### FrontEnd
+### FrontEnd
 ![React](https://img.shields.io/badge/React-5ED3F3?style=for-the-badge&logo=react&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-#### BackEnd
+### BackEnd
 ![Node js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-80ea6e?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)
 
-#### Repositorios
+### Repositorios
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### 🤝🏻 Enlaces de contacto
+## 🤝🏻 Enlaces de contacto
 
 <p align="center">
   <a href="mailto:kamedinal16@gmail.com">

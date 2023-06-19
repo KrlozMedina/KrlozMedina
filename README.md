@@ -10,7 +10,7 @@ Mis intereses también se extienden al campo del Internet de las cosas (IoT) y l
 
 Estoy emocionado de seguir explorando nuevas tecnologías, tanto en el ámbito del hardware como del software, y de aplicar mis conocimientos y habilidades en proyectos innovadores.
 
-Si deseas conocer más sobre mí o explorar algunos de mis proyectos, puedes encontrarme en [LinkedIn](www.linkedin.com/in/krlozmedina) o visitar mi [sitio web personal](https://krlozmedina.com/).
+Si deseas conocer más sobre mí o explorar algunos de mis proyectos, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/krlozmedina) o visitar mi [sitio web personal](https://krlozmedina.com/).
 
 ¡Espero tener la oportunidad de colaborar contigo y hacer realidad nuevas ideas tecnológicas!
 

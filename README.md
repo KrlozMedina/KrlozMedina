@@ -1,13 +1,38 @@
-## ֺ👋🏼 Hi I'm Carlos Medina
+## ֺ👋🏼 Hola soy Carlos Medina
 
-As a Control and Automation Engineer, I have acquired strong knowledge in software development and have worked with various programming languages on different successful projects. In the past year, I have focused on deepening my FrontEnd skills using JavaScript (NodeJS) and React, and on the BackEnd with Java (Spring Boot) and SQL.
+Ingeniero en control y automatización de Bogotá, Colombia. Mi pasión por la tecnología me ha llevado a explorar tanto el campo de la electrónica como el desarrollo de software.
 
-One of my greatest achievements has been leading a digital transformation project in a production plant. There, I designed and implemented a web application that allowed for the collection and analysis of data collected by the plant. I used a technology stack that included a communication protocol with NodeJS to collect data from the PLC, encode it, and transmit it through HTTP protocol to AWS services. These services were integrated with Lambda using JavaScript to assign the data to the appropriate tables in DynamoDB. Finally, using React, a web application was created that displayed the data in tables and graphs and allowed for searches based on user needs.
+Con una formación sólida en electrónica, he trabajado en proyectos que involucran microcontroladores, PLC, procesamiento de imágenes y audio, y desarrollo de páginas web. Mi experiencia en electrónica me ha brindado habilidades técnicas avanzadas, incluyendo el diseño y la lectura de planos electrónicos, así como la capacidad de liderar equipos de trabajo y documentar procesos internos en el laboratorio.
 
-In addition to this project, I have worked on several other projects that have allowed me to gain experience in different areas of software development. My professional goal is to continue growing in the field of development and engineering and to continue applying my skills to solve problems and achieve successful results in the projects I participate in.
+Sin embargo, he decidido cambiar de carrera profesional y enfocarme en el desarrollo de software. He logrado completar exitosamente un proyecto de captura de datos en una planta de producción química, donde implementé un sistema de dashboard web para mostrar los datos de proceso más relevantes. Esto me ha permitido adquirir habilidades en lógica de programación, interacción entre sistemas y servicios, y comprensión de planos y diagramas.
 
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning web development
+Mis intereses también se extienden al campo del Internet de las cosas (IoT) y la automatización del hogar, particularmente en el área de la optimización de la iluminación. Además, me encanta sumergirme en el mundo de los videojuegos, ya que me brindan una forma de evadir el estrés y disfrutar de mundos de fantasía. También soy un fanático de las películas y series, especialmente en el género de acción y ficción. Mi mundo favorito es el Universo Cinematográfico de Marvel (UCM).
+
+Estoy emocionado de seguir explorando nuevas tecnologías, tanto en el ámbito del hardware como del software, y de aplicar mis conocimientos y habilidades en proyectos innovadores.
+
+Si deseas conocer más sobre mí o explorar algunos de mis proyectos, puedes encontrarme en [LinkedIn](www.linkedin.com/in/krlozmedina) o visitar mi [sitio web personal](https://krlozmedina.com/).
+
+¡Espero tener la oportunidad de colaborar contigo y hacer realidad nuevas ideas tecnológicas!
+
+## 💼 Portafolio
+
+### Proyecto 1: [Planta quimica digital](https://github.com/Tranformacion-Digital)
+
+Aplicativo web que transforma la información de una planta química en gráficos y tablas intuitivas. Accede a los datos relevantes y visualiza el rendimiento de la producción en tiempo real. [Visitar](https://grado.onrender.com/)
+
+**Tecnologías utilizadas**: Adobe XD, React, CSS, Node.js, DynamoDB, Lambda, API Gateway, ESP32, PLC, MQTT, HTTP.
+
+### Proyecto 2: [Aplicativo de control de laboratorio](https://github.com/Laboratorio-Electronica)
+
+Una solución digital para administrar el personal y los registros de un laboratorio de electrónica. Registra y monitorea la temperatura ambiente y la humedad relativa para garantizar condiciones óptimas en todo momento. [Visitar](https://tubular-profiterole-64b7dd.netlify.app/records)
+
+**Tecnologías utilizadas**: ESP32, ESP8266, React, CSS, Lambda, Node.js, MongoDB, DynamoDB, API Gateway, HTTP.
+
+### Proyecto 3: [Portafolio web personal](https://github.com/KrlozMedina/Portafolio)
+
+Portafolio web que muestra una selección de mis proyectos y habilidades como desarrollador de software. Se alimenta de una API personalizada que he creado para administrar y mostrar mi información. [Visitar](https://krlozmedina.com/)
+
+**Tecnologías utilizadas**: React, CSS, Spring, Figma, Netlify, Railway.
 
 ### ⚙️ GitHub Analytics
 
@@ -18,20 +43,24 @@ In addition to this project, I have worked on several other projects that have a
 </a>
 </p>
 
-### 🛠 Tech stack
+### 🛠 Habilidades técnicas
 
+#### FrontEnd
 ![React](https://img.shields.io/badge/React-5ED3F3?style=for-the-badge&logo=react&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+#### BackEnd
 ![Node js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-80ea6e?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black)
 
+#### Repositorios
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### 🤝🏻 Connect with Me
+### 🤝🏻 Enlaces de contacto
 
 <p align="center">
   <a href="mailto:kamedinal16@gmail.com">
